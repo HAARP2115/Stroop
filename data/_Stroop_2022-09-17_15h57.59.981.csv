@@ -1,0 +1,5 @@
+﻿badWords,neutralWords,colour,correct_key,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instrText.started,instrText.stopped,keyResp.keys,keyResp.rt,keyResp.started,keyResp.stopped,instrText_2.started,instrText_2.stopped,keyResp_2.keys,keyResp_2.rt,keyResp_2.started,keyResp_2.stopped,textStroopWord.started,textStroopWord.stopped,response.keys,response.corr,response.started,response.stopped,response.rt,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,,,9.842222100007348,None,lcmd,1.6818800999899395,9.842222100007348,None,,,,,,,,,,,,,,,001,2022-09-17_15h57.59.981,Stroop,2022.1.4,59.99167315172541,
+,,,,,,,,,,,,,,11.554615800007014,None,g,0.16968629998154938,11.554615800007014,None,,,,,,,,,001,2022-09-17_15h57.59.981,Stroop,2022.1.4,59.99167315172541,
+Złość,Gość,red,m,0,0,0,0,,,,,,,,,,,,,12.754691000009188,None,None,0,12.754691000009188,None,,,001,2022-09-17_15h57.59.981,Stroop,2022.1.4,59.99167315172541,
+Psychoza,Glukoza,green,x,0,1,1,9,,,,,,,,,,,,,17.738149400014663,16.754614200006472,z,0,17.738149400014663,16.754614200006472,0.7462935000075959,,001,2022-09-17_15h57.59.981,Stroop,2022.1.4,59.99167315172541,

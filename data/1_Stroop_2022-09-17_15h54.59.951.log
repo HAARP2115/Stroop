@@ -1,0 +1,219 @@
+1.5843 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+3.9692 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\mstmc.ttf
+4.1417 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\mstmc.ttf
+7.2711 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+7.9225 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001C46FE741C0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001C4700A9970>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.9227 	EXP 	window1: mouseVisible = True
+7.9227 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.9228 	EXP 	window1: recordFrameIntervals = False
+8.0888 	EXP 	window1: recordFrameIntervals = True
+8.2723 	EXP 	Screen (0) actual frame rate measured at 59.98Hz
+8.2723 	EXP 	window1: recordFrameIntervals = False
+10.3947 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.4349 	EXP 	Created instrText_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='instrText_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.4360 	EXP 	Created textStroopWord = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textStroopWord', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.6600 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.6612 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.6635 	DATA 	Mouse: Left button down, pos=(1761,511)
+10.6636 	DATA 	Mouse:  Left button up, pos=(1761,511)
+10.6723 	EXP 	instrText: autoDraw = True
+11.4739 	DATA 	Mouse: Left button down, pos=(1919,583)
+11.5737 	DATA 	Mouse:  Left button up, pos=(1918,584)
+11.8570 	DATA 	Mouse: Left button down, pos=(1744,595)
+11.9569 	DATA 	Mouse:  Left button up, pos=(1744,595)
+13.5744 	DATA 	Keypress: space
+13.5896 	EXP 	instrText: autoDraw = False
+13.5896 	EXP 	instrText_2: autoDraw = True
+16.4165 	EXP 	Imported data.xlsx as conditions, 20 conditions, 4 params
+16.4172 	EXP 	Created sequence: random, trialTypes=20, nReps=1, seed=None
+16.4174 	EXP 	New trial (rep=0, index=0): {'badWords': 'Zabijanie', 'neutralWords': 'Podjadanie', 'colour': 'blue', 'correct_key': 'z'}
+16.4207 	DATA 	Keypress: space
+16.4395 	EXP 	instrText_2: autoDraw = False
+16.4395 	EXP 	textStroopWord: height = 0.05
+16.4395 	EXP 	textStroopWord: height = 0.05
+16.4395 	EXP 	textStroopWord: height = 0.05
+16.4395 	EXP 	textStroopWord: text = 'Podjadanie'
+17.4229 	EXP 	textStroopWord: autoDraw = True
+18.4240 	EXP 	New trial (rep=0, index=1): {'badWords': 'Gwałt', 'neutralWords': 'Skaut', 'colour': 'green', 'correct_key': 'x'}
+18.4272 	DATA 	Keypress: z
+18.4395 	EXP 	textStroopWord: autoDraw = False
+18.4395 	EXP 	textStroopWord: height = 0.05
+18.4395 	EXP 	textStroopWord: height = 0.05
+18.4395 	EXP 	textStroopWord: height = 0.05
+18.4395 	EXP 	textStroopWord: text = 'Skaut'
+19.4229 	EXP 	textStroopWord: autoDraw = True
+19.8906 	EXP 	New trial (rep=0, index=2): {'badWords': 'Brud', 'neutralWords': 'Klub', 'colour': 'red', 'correct_key': 'm'}
+19.8942 	DATA 	Keypress: x
+19.9062 	EXP 	textStroopWord: autoDraw = False
+19.9062 	EXP 	textStroopWord: height = 0.05
+19.9062 	EXP 	textStroopWord: height = 0.05
+19.9062 	EXP 	textStroopWord: height = 0.05
+19.9062 	EXP 	textStroopWord: text = 'Klub'
+20.8895 	EXP 	textStroopWord: autoDraw = True
+24.8735 	EXP 	New trial (rep=0, index=3): {'badWords': 'Mrok', 'neutralWords': 'Skok', 'colour': 'blue', 'correct_key': 'z'}
+24.8893 	EXP 	textStroopWord: autoDraw = False
+24.8893 	EXP 	textStroopWord: autoDraw = False
+24.8893 	EXP 	textStroopWord: height = 0.05
+24.8893 	EXP 	textStroopWord: height = 0.05
+24.8893 	EXP 	textStroopWord: height = 0.05
+24.8893 	EXP 	textStroopWord: text = 'Skok'
+25.8728 	EXP 	textStroopWord: autoDraw = True
+26.7737 	EXP 	New trial (rep=0, index=4): {'badWords': 'Więzienie', 'neutralWords': 'Schronienie', 'colour': 'blue', 'correct_key': 'n'}
+26.7762 	DATA 	Keypress: m
+26.7895 	EXP 	textStroopWord: autoDraw = False
+26.7895 	EXP 	textStroopWord: height = 0.05
+26.7895 	EXP 	textStroopWord: height = 0.05
+26.7895 	EXP 	textStroopWord: height = 0.05
+26.7895 	EXP 	textStroopWord: text = 'Schronienie'
+27.7728 	EXP 	textStroopWord: autoDraw = True
+28.3904 	EXP 	New trial (rep=0, index=5): {'badWords': 'Pedofil', 'neutralWords': 'Profil', 'colour': 'yellow', 'correct_key': 'm'}
+28.3932 	DATA 	Keypress: n
+28.4061 	EXP 	textStroopWord: autoDraw = False
+28.4061 	EXP 	textStroopWord: height = 0.05
+28.4061 	EXP 	textStroopWord: height = 0.05
+28.4061 	EXP 	textStroopWord: height = 0.05
+28.4061 	EXP 	textStroopWord: text = 'Profil'
+29.3894 	EXP 	textStroopWord: autoDraw = True
+30.1570 	EXP 	New trial (rep=0, index=6): {'badWords': 'Wojna', 'neutralWords': 'Wolna', 'colour': 'yellow', 'correct_key': 'n'}
+30.1598 	DATA 	Keypress: x
+30.1728 	EXP 	textStroopWord: autoDraw = False
+30.1728 	EXP 	textStroopWord: height = 0.05
+30.1728 	EXP 	textStroopWord: height = 0.05
+30.1728 	EXP 	textStroopWord: height = 0.05
+30.1728 	EXP 	textStroopWord: text = 'Wolna'
+31.1561 	EXP 	textStroopWord: autoDraw = True
+31.4405 	DATA 	Keypress: z
+31.4570 	EXP 	New trial (rep=0, index=7): {'badWords': 'Śmierć', 'neutralWords': 'Pięć', 'colour': 'yellow', 'correct_key': 'n'}
+31.4728 	EXP 	textStroopWord: autoDraw = False
+31.4728 	EXP 	textStroopWord: height = 0.05
+31.4728 	EXP 	textStroopWord: height = 0.05
+31.4728 	EXP 	textStroopWord: height = 0.05
+31.4728 	EXP 	textStroopWord: text = 'Pięć'
+32.4561 	EXP 	textStroopWord: autoDraw = True
+32.7071 	EXP 	New trial (rep=0, index=8): {'badWords': 'Węże', 'neutralWords': 'Jeże', 'colour': 'red', 'correct_key': 'm'}
+32.7106 	DATA 	Keypress: m
+32.7227 	EXP 	textStroopWord: autoDraw = False
+32.7227 	EXP 	textStroopWord: height = 0.05
+32.7227 	EXP 	textStroopWord: height = 0.05
+32.7227 	EXP 	textStroopWord: height = 0.05
+32.7227 	EXP 	textStroopWord: text = 'Jeże'
+33.7060 	EXP 	textStroopWord: autoDraw = True
+33.9404 	EXP 	New trial (rep=0, index=9): {'badWords': 'Terroryzm', 'neutralWords': 'Behawioryzm', 'colour': 'green', 'correct_key': 'x'}
+33.9434 	DATA 	Keypress: n
+33.9561 	EXP 	textStroopWord: autoDraw = False
+33.9561 	EXP 	textStroopWord: height = 0.05
+33.9561 	EXP 	textStroopWord: height = 0.05
+33.9561 	EXP 	textStroopWord: height = 0.05
+33.9561 	EXP 	textStroopWord: text = 'Behawioryzm'
+34.9394 	EXP 	textStroopWord: autoDraw = True
+35.1568 	EXP 	New trial (rep=0, index=10): {'badWords': 'Amputacja', 'neutralWords': 'Kreacja', 'colour': 'red', 'correct_key': 'z'}
+35.1592 	DATA 	Keypress: m
+35.1727 	EXP 	textStroopWord: autoDraw = False
+35.1727 	EXP 	textStroopWord: height = 0.05
+35.1727 	EXP 	textStroopWord: height = 0.05
+35.1727 	EXP 	textStroopWord: height = 0.05
+35.1727 	EXP 	textStroopWord: text = 'Kreacja'
+36.1561 	EXP 	textStroopWord: autoDraw = True
+36.4404 	EXP 	New trial (rep=0, index=11): {'badWords': 'Bieda', 'neutralWords': 'Dieta', 'colour': 'yellow', 'correct_key': 'n'}
+36.4432 	DATA 	Keypress: z
+36.4561 	EXP 	textStroopWord: autoDraw = False
+36.4561 	EXP 	textStroopWord: height = 0.05
+36.4561 	EXP 	textStroopWord: height = 0.05
+36.4561 	EXP 	textStroopWord: height = 0.05
+36.4561 	EXP 	textStroopWord: text = 'Dieta'
+37.4394 	EXP 	textStroopWord: autoDraw = True
+37.6737 	EXP 	New trial (rep=0, index=12): {'badWords': 'Choroba', 'neutralWords': 'Gospoda', 'colour': 'yellow', 'correct_key': 'm'}
+37.6768 	DATA 	Keypress: x
+37.6894 	EXP 	textStroopWord: autoDraw = False
+37.6894 	EXP 	textStroopWord: height = 0.05
+37.6894 	EXP 	textStroopWord: height = 0.05
+37.6894 	EXP 	textStroopWord: height = 0.05
+37.6894 	EXP 	textStroopWord: text = 'Gospoda'
+38.6727 	EXP 	textStroopWord: autoDraw = True
+38.8903 	EXP 	New trial (rep=0, index=13): {'badWords': 'Krew', 'neutralWords': 'Brew', 'colour': 'green', 'correct_key': 'x'}
+38.8926 	DATA 	Keypress: n
+38.9060 	EXP 	textStroopWord: autoDraw = False
+38.9060 	EXP 	textStroopWord: height = 0.05
+38.9060 	EXP 	textStroopWord: height = 0.05
+38.9060 	EXP 	textStroopWord: height = 0.05
+38.9060 	EXP 	textStroopWord: text = 'Brew'
+39.8894 	EXP 	textStroopWord: autoDraw = True
+40.1237 	EXP 	New trial (rep=0, index=14): {'badWords': 'Przemoc', 'neutralWords': 'Równonoc', 'colour': 'red', 'correct_key': 'm'}
+40.1272 	DATA 	Keypress: m
+40.1394 	EXP 	textStroopWord: autoDraw = False
+40.1394 	EXP 	textStroopWord: height = 0.05
+40.1394 	EXP 	textStroopWord: height = 0.05
+40.1394 	EXP 	textStroopWord: height = 0.05
+40.1394 	EXP 	textStroopWord: text = 'Równonoc'
+41.1227 	EXP 	textStroopWord: autoDraw = True
+41.2903 	EXP 	New trial (rep=0, index=15): {'badWords': 'Psychoza', 'neutralWords': 'Glukoza', 'colour': 'green', 'correct_key': 'x'}
+41.2926 	DATA 	Keypress: n
+41.3060 	EXP 	textStroopWord: autoDraw = False
+41.3060 	EXP 	textStroopWord: height = 0.05
+41.3060 	EXP 	textStroopWord: height = 0.05
+41.3060 	EXP 	textStroopWord: height = 0.05
+41.3060 	EXP 	textStroopWord: text = 'Glukoza'
+42.2893 	EXP 	textStroopWord: autoDraw = True
+42.5070 	EXP 	New trial (rep=0, index=16): {'badWords': 'Maczeta', 'neutralWords': 'Skarpeta', 'colour': 'green', 'correct_key': 'x'}
+42.5094 	DATA 	Keypress: z
+42.5227 	EXP 	textStroopWord: autoDraw = False
+42.5227 	EXP 	textStroopWord: height = 0.05
+42.5227 	EXP 	textStroopWord: height = 0.05
+42.5227 	EXP 	textStroopWord: height = 0.05
+42.5227 	EXP 	textStroopWord: text = 'Skarpeta'
+43.5060 	EXP 	textStroopWord: autoDraw = True
+43.7236 	EXP 	New trial (rep=0, index=17): {'badWords': 'Molestowanie', 'neutralWords': 'Bieganie', 'colour': 'blue', 'correct_key': 'n'}
+43.7265 	DATA 	Keypress: x
+43.7393 	EXP 	textStroopWord: autoDraw = False
+43.7393 	EXP 	textStroopWord: height = 0.05
+43.7393 	EXP 	textStroopWord: height = 0.05
+43.7393 	EXP 	textStroopWord: height = 0.05
+43.7393 	EXP 	textStroopWord: text = 'Bieganie'
+44.7226 	EXP 	textStroopWord: autoDraw = True
+45.7903 	EXP 	New trial (rep=0, index=18): {'badWords': 'Złość', 'neutralWords': 'Gość', 'colour': 'red', 'correct_key': 'm'}
+45.7924 	DATA 	Keypress: n
+45.8060 	EXP 	textStroopWord: autoDraw = False
+45.8060 	EXP 	textStroopWord: height = 0.05
+45.8060 	EXP 	textStroopWord: height = 0.05
+45.8060 	EXP 	textStroopWord: height = 0.05
+45.8060 	EXP 	textStroopWord: text = 'Gość'
+46.7893 	EXP 	textStroopWord: autoDraw = True
+48.4571 	DATA 	Keypress: m
+48.4736 	EXP 	New trial (rep=0, index=19): {'badWords': 'Bić', 'neutralWords': 'Nić', 'colour': 'blue', 'correct_key': 'z'}
+48.4893 	EXP 	textStroopWord: autoDraw = False
+48.4893 	EXP 	textStroopWord: height = 0.05
+48.4893 	EXP 	textStroopWord: height = 0.05
+48.4893 	EXP 	textStroopWord: height = 0.05
+48.4893 	EXP 	textStroopWord: text = 'Nić'
+49.4726 	EXP 	textStroopWord: autoDraw = True
+51.1415 	DATA 	Keypress: x
+51.1560 	EXP 	textStroopWord: autoDraw = False
+51.1560 	EXP 	image: autoDraw = True
+52.9798 	EXP 	Imported data.xlsx as conditions, 20 conditions, 4 params
+52.9806 	EXP 	Created sequence: random, trialTypes=20, nReps=20, seed=None
+52.9809 	EXP 	New trial (rep=0, index=0): {'badWords': 'Maczeta', 'neutralWords': 'Skarpeta', 'colour': 'green', 'correct_key': 'x'}
+52.9845 	DATA 	Keypress: space
+52.9893 	EXP 	image: autoDraw = False
+52.9893 	EXP 	text: height = 0.05
+52.9893 	EXP 	text: height = 0.05
+52.9893 	EXP 	text: height = 0.05
+52.9893 	EXP 	text: text = 'Maczeta'
+53.9891 	EXP 	text: autoDraw = True
+56.2410 	EXP 	New trial (rep=0, index=1): {'badWords': 'Krew', 'neutralWords': 'Brew', 'colour': 'green', 'correct_key': 'x'}
+56.2431 	DATA 	Keypress: x
+56.2559 	EXP 	text: autoDraw = False
+56.2559 	EXP 	text: height = 0.05
+56.2559 	EXP 	text: height = 0.05
+56.2559 	EXP 	text: height = 0.05
+56.2559 	EXP 	text: text = 'Krew'
+57.2392 	EXP 	text: autoDraw = True
+58.1904 	EXP 	New trial (rep=0, index=2): {'badWords': 'Pedofil', 'neutralWords': 'Profil', 'colour': 'yellow', 'correct_key': 'm'}
+58.1928 	DATA 	Keypress: z
+58.2059 	EXP 	text: autoDraw = False
+58.2059 	EXP 	text: height = 0.05
+58.2059 	EXP 	text: height = 0.05
+58.2059 	EXP 	text: height = 0.05
+58.2059 	EXP 	text: text = 'Pedofil'
+59.1892 	EXP 	text: autoDraw = True
+60.1239 	DATA 	Keypress: escape
+60.8942 	EXP 	window1: mouseVisible = True
